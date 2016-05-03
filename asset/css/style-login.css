@@ -1,0 +1,58 @@
+body{
+background-image:url(../images/bg-login.jpg);
+background-position:top;
+background-repeat:no-repeat;
+margin:0px auto;
+padding:0px;
+font-family:Arial;
+font-size:12px;
+}
+#judul{
+width:350px;
+text-align:center;
+}
+#bg-login{
+width:350px;
+margin:0px auto;
+background-image:url(../images/spotlight-bg.png);
+background-repeat:repeat;
+padding:10px;
+-moz-border-radius:5px;
+-khtml-border-radius:5px;
+-webkit-border-radius:5px;
+color:#FFFFFF;
+-moz-box-shadow: 3px 3px 3px #333;
+  -webkit-box-shadow: 3px 3px 3px #333;
+  box-shadow: 3px 3px 3px #333;
+}
+#bg-login-kiri{
+float:left;
+width:80px;
+padding:8px;
+}
+#bg-login-kanan{
+float:right
+width:230px;
+}
+.input{
+padding:5px;
+border:1px solid #666666;
+-moz-border-radius:5px;
+-khtml-border-radius:5px;
+-webkit-border-radius:5px;
+}
+.tombol{
+padding:7px;
+background-color:#0085C4;
+border:1px solid #fff;
+-moz-border-radius:5px;
+-khtml-border-radius:5px;
+-webkit-border-radius:5px;
+color:#FFFFFF;
+}
+.tombol:hover{
+background-color:#FFFFFF;
+border:1px solid #000;
+color:#000000;
+cursor:pointer;
+}
